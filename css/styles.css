@@ -1,0 +1,41 @@
+h1{
+    color:rgb(8, 124, 85)
+}
+
+p{
+    color:brown;
+}
+
+h2{
+    color:rgb(21, 184, 21)
+}
+
+header{
+    background-color: rgb(172, 216, 172);
+}
+
+footer{
+    background-color: rgb(156, 153, 153);
+}
+
+.c-naranjo{
+    color:#ec7226;
+}
+
+.bg.verde{
+    background-color: #acd8ac;
+}
+
+
+.btn-verde{
+    background-color:#76ac13;
+    border: black;
+    color:brown;
+}
+
+.btn-verde:hover{
+    background-color:#d17915;
+    border: rgb(94, 85, 85);
+    color:rgb(4, 105, 35);
+}
+
